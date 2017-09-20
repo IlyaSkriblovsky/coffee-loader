@@ -1,5 +1,5 @@
 {
-	"name": "coffee-loader",
+	"name": "coffee-loader1",
 	"version": "0.7.3",
 	"author": "Tobias Koppers @sokra",
 	"description": "coffee loader module for webpack",
@@ -8,10 +8,6 @@
 	},
 	"peerDependencies": {
 		"coffee-script": "1.x"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git@github.com:webpack/coffee-loader.git"
 	},
 	"licenses": [
 		{
